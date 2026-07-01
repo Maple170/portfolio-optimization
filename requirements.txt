@@ -1,7 +1,7 @@
-amplify
-amplify-quantum
-matplotlib
-numpy
-pandas
-scipy
+amplify==1.6.0
+amplify-quantum==1.1.1
+matplotlib==3.10.6
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.16.3
 streamlit
