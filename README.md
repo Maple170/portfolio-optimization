@@ -12,7 +12,7 @@ $$f(w) = -r_p + \frac{\gamma}{2} \sigma_p^2$$
 
 - $r_p = \sum_i w_i r_i$ : ポートフォリオ期待収益率
 - $\sigma_p^2 = w^\top \Sigma w$ : ポートフォリオ分散（リスク）
-- 制約: $\sum_i w_i = 100$、$0 \leq w_i \leq 20$
+- 制約: $\sum_i w_i = 100$ および $0 \leq w_i \leq 20$
 
 ### 古典 vs 量子の違い
 
